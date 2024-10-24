@@ -11,3 +11,13 @@ Matplotlib: For creating bar charts, line charts, and pie charts to visualize th
 Seaborn: To create attractive pair plots for visualizing relationships between players’ statistics.
 
 These tools allowed for comprehensive insights into player performance across IPL seasons.
+
+Insights Derived:
+
+1.Got highest runs scored in a single match by an individual player
+2.Total overall highest individual runs by a player(top 3-5).
+3.Total runs scored in each season and their percentage.
+4.Top run scorers of every season with their runs scored.
+5.Strike rates of players in comparision to balls faced.
+6.Impact of several match events on diffrent aspects(like: effect of boundaries scored on runs, effect of runs on strike rate etc)
+7.
